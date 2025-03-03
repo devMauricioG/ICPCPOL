@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1741028494 source:c:\users\devma\documents\c\hormiguero\functions.c
+	"header.h"
+
+1741028519 c:\users\devma\documents\c\hormiguero\header.h
+	<stdio.h>
+
+1741028491 source:c:\users\devma\documents\c\hormiguero\main.c
+	"header.h"
+
